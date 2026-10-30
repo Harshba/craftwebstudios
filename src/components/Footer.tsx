@@ -134,12 +134,12 @@ export const Footer: React.FC<FooterProps> = ({ onOpenEstimator, onOpenConsultat
               <div className="flex items-center gap-2">
                 <MessageSquare className="w-4 h-4 text-emerald-400 shrink-0" />
                 <a 
-                  href="https://wa.me/917088686900?text=Hi%2C%20I%20want%20to%20build%20a%20website%20for%20my%20business." 
+                  href="https://wa.me/919053866128?text=Hi%2C%20I%20want%20to%20build%20a%20website%20for%20my%20business." 
                   target="_blank" 
                   rel="noopener noreferrer"
                   className="text-emerald-300 hover:underline font-medium"
                 >
-                  WhatsApp: 7088686900 (Instant Chat)
+                  WhatsApp: 9053866128 (Instant Chat)
                 </a>
               </div>
               <div className="flex items-center gap-2">
@@ -184,7 +184,7 @@ export const Footer: React.FC<FooterProps> = ({ onOpenEstimator, onOpenConsultat
             <a href="https://harshjmit.netlify.app/" target="_blank" rel="noopener noreferrer" className="text-cyan-400 hover:text-white transition">
               Developer Profile ↗
             </a>
-            <a href="https://wa.me/917088686900" target="_blank" rel="noopener noreferrer" className="text-emerald-400 hover:text-white transition">
+            <a href="https://wa.me/919053866128" target="_blank" rel="noopener noreferrer" className="text-emerald-400 hover:text-white transition">
               WhatsApp ↗
             </a>
             <a href="#" className="hover:text-slate-300 transition">Privacy Policy</a>

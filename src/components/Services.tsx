@@ -182,7 +182,7 @@ export const Services: React.FC<ServicesProps> = ({ onSelectService }) => {
                     className="w-full inline-flex items-center justify-center gap-2 py-2.5 px-4 rounded-xl text-xs sm:text-sm font-semibold text-slate-200 bg-slate-900 hover:bg-indigo-600 hover:text-white border border-slate-800 hover:border-indigo-500 transition-all cursor-pointer"
                   >
                     <span>Request This Service</span>
-                    <ArrowRight className="w-3.5 h-3.5" />
+                    <ArrowRight className="w-3.5 h-3.5"/>
                   </button>
                 </div>
               </div>
