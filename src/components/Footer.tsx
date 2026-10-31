@@ -139,7 +139,7 @@ export const Footer: React.FC<FooterProps> = ({ onOpenEstimator, onOpenConsultat
                   rel="noopener noreferrer"
                   className="text-emerald-300 hover:underline font-medium"
                 >
-                  WhatsApp: 9053866128 (Instant Chat)
+                  WhatsApp:9053866128 (Instant Chat)
                 </a>
               </div>
               <div className="flex items-center gap-2">

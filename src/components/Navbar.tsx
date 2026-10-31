@@ -61,12 +61,12 @@ export const Navbar: React.FC<NavbarProps> = ({
           </button>
           <span className="text-slate-500">|</span>
           <a
-            href="https://wa.me/917088686900?text=Hi%2C%20I%20want%20to%20build%20a%20website%20for%20my%20business."
+            href="https://wa.me/919053866128?text=Hi%2C%20I%20want%20to%20build%20a%20website%20for%20my%20business."
             target="_blank"
             rel="noopener noreferrer"
             className="text-emerald-300 hover:text-white font-semibold flex items-center gap-1"
           >
-            <span>WhatsApp: +91 7088686900</span>
+            <span>WhatsApp: +91 9053866128</span>
           </a>
           <span className="text-slate-400 hidden md:inline">|</span>
           <a
@@ -122,7 +122,7 @@ export const Navbar: React.FC<NavbarProps> = ({
           {/* Action CTAs */}
           <div className="hidden sm:flex items-center gap-2.5">
             <a
-              href="https://wa.me/917088686900?text=Hello%20CraftWeb%20Studios%2C%20I%20want%20to%20build%20a%20website%20for%20my%20business."
+              href="https://wa.me/919053866128?text=Hello%20CraftWeb%20Studios%2C%20I%20want%20to%20build%20a%20website%20for%20my%20business."
               target="_blank"
               rel="noopener noreferrer"
               className="inline-flex items-center gap-1.5 px-3 py-2 text-xs md:text-sm font-medium rounded-lg text-emerald-300 hover:text-white bg-emerald-950/40 hover:bg-emerald-900/60 border border-emerald-500/30 transition cursor-pointer"
@@ -196,7 +196,7 @@ export const Navbar: React.FC<NavbarProps> = ({
             <div className="pt-2 flex flex-col gap-2.5">
               <div className="grid grid-cols-2 gap-2">
                 <a
-                  href="https://wa.me/917088686900?text=Hi%2C%20I%20am%20interested%20in%20creating%20a%20website%20for%20my%20business."
+                  href="https://wa.me/919053866128?text=Hi%2C%20I%20am%20interested%20in%20creating%20a%20website%20for%20my%20business."
                   target="_blank"
                   rel="noopener noreferrer"
                   className="flex items-center justify-center gap-1.5 py-2.5 px-3 rounded-lg bg-emerald-950/60 border border-emerald-500/40 text-emerald-300 font-semibold text-xs"
